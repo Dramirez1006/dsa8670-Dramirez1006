@@ -7,5 +7,3 @@ Major / program:
 Favorite dataset or industry interest:
 
 One reason I am studying analytics:
-
-Added my name to intro.txt
