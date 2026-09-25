@@ -73,3 +73,12 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+
+Version Control & Why It Matters:
+Version control is like a history of your own work. A way of tracking changes over time. In analytics, a project usually involves lots of changes, and multiple people working on those changes at the same time. Version control helps teams or individuals record those changes in the case you ever have to go back to understand what happened and why. In the readings I learned that Git branching is a bit more unique than other version control systems. Here, you're allowed to open a branch, make changes in your own copy (or brach), then merge back to the main branch. This method allows for a seamless transition when multiple people are making changes at one time.
+
+
+
+
+
